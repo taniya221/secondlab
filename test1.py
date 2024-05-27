@@ -1,3 +1,3 @@
-print("helloyl");
+print("hi");
 print("he")
 print("see")
